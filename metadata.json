@@ -1,0 +1,7 @@
+{
+  "name": "CliniGestor - Sistema de Gestão Clínica Multi-Clínicas",
+  "description": "Sistema de Gestão Clínica SaaS multi-clínicas com autenticação por CPF e senha, controle de acesso administrativo e prontuário completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
